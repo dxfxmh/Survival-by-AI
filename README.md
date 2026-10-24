@@ -1,0 +1,1 @@
+Ensure you add GEMINI_API_KEY as a environment variable before running!
